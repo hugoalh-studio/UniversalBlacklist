@@ -1,20 +1,20 @@
-address	displayName	reasonSpam
-argelia.padron@resuelvedeuda.com		TRUE
-bounce@aniversalia.com		TRUE
-ciao@ems.hopkins.edu.hk		TRUE
-confirmacion@red-voucher.com	Red Voucher	TRUE
-consumo3@zendere.com		TRUE
-consumo11@zendere.com		TRUE
-fwk20180723@fwk.hk		TRUE
-fwk20180801@fwk.hk		TRUE
-gamblen4h2so@yahoo.co.jp	23國語言翻譯公司	TRUE
-hk@emktg.englishtown.com		TRUE
-info@honolulu-university.hk		TRUE
-informacion.operacion.recuperaciones@santander.com.mx		TRUE
-information@hopkins.edu.hk	Murdoch University	TRUE
-irma.bribiesca@limpiatuburo.com.mx		TRUE
-millerxm8a4@yahoo.co.jp		TRUE
-mruizrobl@santander.com.mx	Ruiz Robles Miriam	TRUE
-news@email.jackd.mobi		TRUE
-rafael.riverol@zendere.com		TRUE
-sofia.camarena@consumozendere.com.mx		TRUE
+address	displayName	reasonAdvertisement	reasonBilk	reasonSpam
+argelia.padron@resuelvedeuda.com		TRUE	FALSE	TRUE
+bounce@aniversalia.com		FALSE	FALSE	TRUE
+ciao@ems.hopkins.edu.hk		TRUE	FALSE	TRUE
+confirmacion@red-voucher.com	Red Voucher	TRUE	FALSE	FALSE
+consumo3@zendere.com		TRUE	FALSE	TRUE
+consumo11@zendere.com		TRUE	FALSE	TRUE
+fwk20180723@fwk.hk		TRUE	FALSE	FALSE
+fwk20180801@fwk.hk		TRUE	FALSE	FALSE
+gamblen4h2so@yahoo.co.jp	23國語言翻譯公司	TRUE	FALSE	TRUE
+hk@emktg.englishtown.com		TRUE	FALSE	TRUE
+info@honolulu-university.hk		TRUE	FALSE	TRUE
+informacion.operacion.recuperaciones@santander.com.mx		FALSE	FALSE	TRUE
+information@hopkins.edu.hk	Murdoch University	TRUE	FALSE	FALSE
+irma.bribiesca@limpiatuburo.com.mx		TRUE	FALSE	TRUE
+millerxm8a4@yahoo.co.jp		TRUE	FALSE	TRUE
+mruizrobl@santander.com.mx	Ruiz Robles Miriam	FALSE	TRUE	FALSE
+news@email.jackd.mobi		TRUE	FALSE	TRUE
+rafael.riverol@zendere.com		TRUE	FALSE	TRUE
+sofia.camarena@consumozendere.com.mx		TRUE	FALSE	TRUE
