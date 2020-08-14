@@ -12,9 +12,20 @@
 ## 📜 Description
 
 A blacklist database to deny bad things.
+
+### List
+
 - [Discord](./discord.tsv)
 - [Email](./email.tsv)
 - [GitHub](./github.tsv)
 - [Line](./line.tsv)
 - [Roblox](./roblox.tsv)
-- [Word](./word.tsv)
+- [Telephone](./telephone.tsv)
+- [Tumblr](./tumblr.tsv)
+- [Word](./word.txt)
+
+### Reason
+
+- Advertisement
+- Bilk
+- Spam
