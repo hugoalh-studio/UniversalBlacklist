@@ -1,4 +1,4 @@
-idNumber	idName	accountType	reasonAdvertisement	reasonBilk	reasonSpam
+id	idCustom	accountType	reasonAdvertisement	reasonBilk	reasonSpam
 	14line id	user	FALSE	TRUE	FALSE
 	1800as	user	FALSE	TRUE	FALSE
 	1470220	user	FALSE	TRUE	FALSE

@@ -1,4 +1,4 @@
-id	displayName	reasonAdvertisement	reasonBilk	reasonSpam
+id	name	reasonAdvertisement	reasonBilk	reasonSpam
 8bitfuture		TRUE	FALSE	FALSE
 50watts		TRUE	FALSE	FALSE
 1000drawings		TRUE	FALSE	FALSE

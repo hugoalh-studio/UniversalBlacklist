@@ -1,4 +1,4 @@
-address	displayName	reasonAdvertisement	reasonBilk	reasonSpam
+address	name	reasonAdvertisement	reasonBilk	reasonSpam
 admin@veosla.ml		FALSE	TRUE	TRUE
 adnan.razi@hotmail.com		FALSE	TRUE	TRUE
 ala.adi@hotmail.com		FALSE	TRUE	TRUE

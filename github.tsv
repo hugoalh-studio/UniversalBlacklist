@@ -1,4 +1,4 @@
-idNumber	idName	accountType	reasonAdvertisement	reasonHacker	reasonSpam
+id	idCustom	accountType	reasonAdvertisement	reasonHacker	reasonSpam
 35456922	9237074	user	FALSE	TRUE	FALSE
 42925988	572169725	user	FALSE	TRUE	FALSE
 20430881	66coder66	user	FALSE	TRUE	FALSE
