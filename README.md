@@ -1,31 +1,48 @@
 # Universal Blacklist
 
-[![GitHub Contributors](https://img.shields.io/github/contributors/hugoalh/UniversalBlacklist?logo=github&logoColor=ffffff&style=flat-square)](https://github.com/hugoalh/UniversalBlacklist/graphs/contributors)
-![GitHub Watchers](https://img.shields.io/github/watchers/hugoalh/UniversalBlacklist?logo=github&logoColor=ffffff&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/hugoalh/UniversalBlacklist?logo=github&logoColor=ffffff&style=flat-square)
-![GitHub Forks](https://img.shields.io/github/forks/hugoalh/UniversalBlacklist?logo=github&logoColor=ffffff&style=flat-square)
-
-| **[Issue](https://github.com/hugoalh/UniversalBlacklist/issues?q=is%3Aissue)** | **[Pull Request](https://github.com/hugoalh/UniversalBlacklist/pulls?q=is%3Apr)** |
-|:----|:----|
-| **Open:** ![](https://img.shields.io/github/issues-raw/hugoalh/UniversalBlacklist?style=flat-square&color=000000&label=%20)<br />**Closed:** ![](https://img.shields.io/github/issues-closed-raw/hugoalh/UniversalBlacklist?style=flat-square&color=000000&label=%20) | **Open:** ![](https://img.shields.io/github/issues-pr-raw/hugoalh/UniversalBlacklist?style=flat-square&color=000000&label=%20)<br />**Closed:** ![](https://img.shields.io/github/issues-pr-closed-raw/hugoalh/UniversalBlacklist?style=flat-square&color=000000&label=%20) |
-
-## 📜 Description
+<details>
+  <summary><a href="https://github.com/hugoalh-studio/UniversalBlacklist"><code>hugoalh-studio/UniversalBlacklist</code></a></summary>
+  <img align="center" alt="GitHub Watcher" src="https://img.shields.io/github/watchers/hugoalh-studio/UniversalBlacklist?logo=github&logoColor=ffffff&style=flat-square" />
+  <img align="center" alt="GitHub Star" src="https://img.shields.io/github/stars/hugoalh-studio/UniversalBlacklist?logo=github&logoColor=ffffff&style=flat-square" />
+  <img align="center" alt="GitHub Fork" src="https://img.shields.io/github/forks/hugoalh-studio/UniversalBlacklist?logo=github&logoColor=ffffff&style=flat-square" />
+</details>
 
 A blacklist database to deny bad things.
 
+<table>
+  <tr>
+    <td><a href="https://github.com/hugoalh-studio/UniversalBlacklist/graphs/contributors"><b>Contributor</b></a> <img align="center" src="https://img.shields.io/github/contributors/hugoalh-studio/UniversalBlacklist?label=%20&style=flat-square" /></td>
+    <td><ul>
+        <li><a href="https://github.com/hugoalh-studio">hugoalh Studio</a></li>
+        <li><a href="https://github.com/hugoalh">hugoalh</a></li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hugoalh-studio/UniversalBlacklist/issues?q=is%3Aissue"><b>Issue</b></a></td>
+    <td><img align="center" src="https://img.shields.io/github/issues-raw/hugoalh-studio/UniversalBlacklist?label=%20&style=flat-square" /> : <img align="center" src="https://img.shields.io/github/issues-closed-raw/hugoalh-studio/UniversalBlacklist?label=%20&style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hugoalh-studio/UniversalBlacklist/pulls?q=is%3Apr"><b>Pull Request</b></a></td>
+    <td><img align="center" src="https://img.shields.io/github/issues-pr-raw/hugoalh-studio/UniversalBlacklist?label=%20&style=flat-square" /> : <img align="center" src="https://img.shields.io/github/issues-pr-closed-raw/hugoalh-studio/UniversalBlacklist?label=%20&style=flat-square" /></td>
+  </tr>
+</table>
+
+## 📜 Description
+
+
 ### List
 
-- [Discord](./discord.tsv)
-- [Email](./email.tsv)
-- [GitHub](./github.tsv)
-- [Line](./line.tsv)
-- [Roblox](./roblox.tsv)
-- [Telephone](./telephone.tsv)
-- [Tumblr](./tumblr.tsv)
-- [Word](./word.txt)
+<kbd>[Discord](./discord.tsv)</kbd>
+<kbd>[Email](./email.tsv)</kbd>
+<kbd>[GitHub](./github.tsv)</kbd>
+<kbd>[Line](./line.tsv)</kbd>
+<kbd>[Roblox](./roblox.tsv)</kbd>
+<kbd>[Telephone](./telephone.tsv)</kbd>
+<kbd>[Tumblr](./tumblr.tsv)</kbd>
+<kbd>[Word](./word.txt)</kbd>
 
 ### Reason
 
-- Advertisement
-- Bilk
-- Spam
+<kbd>Advertisement</kbd>
+<kbd>Bilk</kbd>
+<kbd>Spam</kbd>
