@@ -29,7 +29,6 @@ A blacklist database to deny bad things.
 
 ## 📜 Description
 
-
 ### List
 
 <kbd>[Discord](./discord.tsv)</kbd>
